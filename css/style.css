@@ -1,0 +1,157 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: black;
+  background-color: hsl(229, 57%, 11%);
+  color: white;
+  font-weight: lighter;
+}
+
+.imagenfondo {
+  position: absolute;left: 10px; top: 25px; z-index: 1;
+  margin: 20% auto auto -5%;
+}
+
+.textodetalle {
+  background-color: blue;
+  background-color: hsl(228, 56%, 26%);
+  width: 400px;
+  padding: 60px 50px;
+  border-radius: 15px;
+  position: absolute;left: 1px; top: -75px; z-index: 3;
+  margin-top: 24%;
+  margin-left: 47%;
+}
+
+.Fylo {
+  background-color: blue;
+  background-color: hsl(228, 56%, 26%);
+  width: 200px;
+  padding: 30px 50px;
+  position: absolute;left: 10px; top: 25px; z-index: 2;
+  margin-top: 15%;
+  margin-left: 20%;
+  border-radius: 15px 100px 15px 15px;
+}
+
+.icondocu {
+  padding: 10px;
+  background-color: black;
+  background-color: hsl(229, 57%, 11%);
+  width: 15px;
+  margin: 5px;
+}
+
+.iconfol {
+  padding: 10px;
+  background-color: black;
+  background-color: hsl(229, 57%, 11%);
+  width: 20px;
+  margin: 5px;
+}
+
+.iconup {
+  padding: 10px;
+  background-color: black;
+  background-color: hsl(229, 57%, 11%);
+  width: 20px;
+  margin: 5px;
+}
+
+.logo {
+  margin-top: -20px;
+  padding-bottom: 15px;
+  margin-left: -10%;
+  width: 110px;
+}
+
+.popup815 {
+  width: 50px;
+  padding: 10px;
+  border-radius: 15px 500px 500px 15px;
+  background-color: white;
+  margin-top: 18%;
+  margin-left: 25%;
+  position: absolute;left: 720px; top: -65px; z-index: 3;
+
+}
+
+
+.numero {
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.gb {
+  color: white;
+  color: hsl(229, 7%, 55%);
+  font-size: 10px;
+}
+
+
+.contenedor
+
+{
+ border: 8px solid hsl(229, 57%, 11%);
+ border-radius: 15px;
+ width: 30%;
+ position: absolute;left: 680px; top: 300px; z-index: 3;
+
+
+}
+
+.barra
+
+{
+  border: 8px solid hsl(335, 100%, 65%);
+  border-radius: 15px;
+  width: 20%;
+  position: absolute;left: 680px; top: 300px; z-index: 3;
+
+
+}
+
+.textrepro
+
+{
+margin-top: -20px;
+font-size: 12px;
+
+}
+
+.nu
+
+{
+  font-weight: 700;
+}
+
+.peso
+
+{
+  position: absolute;left: 75px; top: 99px; z-index: 3;
+  font-size: 10px;
+
+
+}
+
+.tamano
+
+{
+  font-size: 10px;
+  position: absolute;left: 400px; top: 99px; z-index: 3;
+
+
+
+
+}
+
+.esfera
+
+{
+background-color: white;
+border-radius: 50%;
+width: 15px;
+height: 15px;
+position: absolute;left: 930px; top: 300px; z-index: 4;
+
+}
